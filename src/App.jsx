@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const calendlyUrl =
-  "<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=America%2FFortaleza&showPrint=0&title=Agenda%20de%20atendimento&showCalendars=0&src=Y3VydGlzd2VsbGluZ3RvbjE2QGdtYWlsLmNvbQ&color=%239e69af" style="border-width:0" width="300" height="400" frameborder="0" scrolling="no"></iframe>;
+  "https://calendar.google.com/calendar/appointments/schedules/AcZssZ0hDU1CkBIygf-Zz4CKrt-MHB01AwavDUmzU52R8XVaziJZ1_daBO5xs-gkCtNMjwI7yvuSBbxt?gv=true";
 const agendaExternalUrl = "https://agenda-de-atendimento.netlify.app/";
 
 const privacyUrl = "/privacidade";
